@@ -222,6 +222,9 @@ Abrir en el navegador:
 
 2. Webapp Boton de De Emergencia
 
+<img width="1874" height="903" alt="image" src="https://github.com/user-attachments/assets/bf00a472-ccac-451a-881f-e6970433e503" />
+
+
 
 # 🔐 Advertencia de uso autorizado y seguro
 
