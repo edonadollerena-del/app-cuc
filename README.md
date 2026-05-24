@@ -220,6 +220,22 @@ Abrir en el navegador:
 - Detalle de alertas.
 - Historial de eventos.
 
+Esta pantalla nos muestra en tiempo real las diferentes señales de emergencias enviadas por nuestro cliente para realizar el tratamiento requerido por la misma
+
+<img width="1917" height="879" alt="image" src="https://github.com/user-attachments/assets/4007d7f8-db5e-4968-a5d3-abc6a6df7de9" />
+
+
+Pantalla para documentar cada una de las señales que envian los usuarios donde se puede observar a quien se debe llamar en caso de una urgencia.
+
+<img width="1908" height="900" alt="image" src="https://github.com/user-attachments/assets/7f131b87-9838-4652-8855-50aab34e1993" />
+
+
+Modulo de usuarios opara hacer un crud del mismo.
+
+<img width="1919" height="784" alt="image" src="https://github.com/user-attachments/assets/ad72d512-20c2-4a0d-acf7-4b2826ca6d1f" />
+
+  
+
 2. Webapp Boton de De Emergencia
 
 <img width="1874" height="903" alt="image" src="https://github.com/user-attachments/assets/bf00a472-ccac-451a-881f-e6970433e503" />
